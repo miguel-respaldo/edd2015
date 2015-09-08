@@ -2,7 +2,7 @@
 #define FUNCIONES_H
 
 
-float suma (float num1, num2);
+float suma (float num1, float num2);
 
 
 #endif
