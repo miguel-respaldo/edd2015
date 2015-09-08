@@ -31,7 +31,7 @@ void introducir_datos(float *num1, float *num2)
 
 void imprimir_resultado(float res)
 {
-	printf("El resultado es: %5.2f\n\n");
+	printf("El resultado es: %5.2f\n\n",res);
 }
 
 int main()
@@ -56,13 +56,12 @@ int main()
 				break;
 			case DIVISION:
 				break;
-			defautl:
+			default:
 				break;
 		}
 
 	} while (opcion != 5);
-
-
+	return 0;
 }
 
 
