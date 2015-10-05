@@ -1,0 +1,7 @@
+# Instrucciones
+
+* Crear un programa donde crea un arreglo de manera dinamica:
+   * El programa empieza y pregunta por el tamaño del arreglo
+   * El programa crea el arreglo y lo llena del 1 al tamaño de arreglo
+   * El programa imprime el arreglo
+   * El programa libera la memoria y sale
