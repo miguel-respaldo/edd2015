@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <iostream>
 
+using namespace std;
 
 int main()
 {
@@ -8,22 +8,22 @@ int main()
 	int *arreglo;
 	int contador;
 
-	printf("Tamaño del arreglo: ");
-	scanf("%d", &tamano);
+	cout << "Tamaño del arreglo: ";
+	cin >> tamano;
 
 	// Reserva el tamaño en bytes
-	arreglo = (int *) malloc(tamano * sizeof(int));
+	arreglo = new int[tamano];
 
 	for (contador = 0; contador < tamano; contador++) {
 		arreglo[contador] = contador + 1;
 	}
 
-	printf("El arreglo es: ");
+	cout << "El arreglo es: ";
 	for (contador = 0; contador < tamano; contador++) {
-		printf("%d, ", arreglo[contador]);
+		cout << arreglo[contador] << ", ";
 	}
-	printf("\n");
+	cout << endl;
 
-	free(arreglo);
+	delete [] arreglo;
 	return 0;
 }
