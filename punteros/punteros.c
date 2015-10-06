@@ -22,6 +22,7 @@ int main()
 	for (contador = 0; contador < tamano; contador++) {
 		printf("%d, ", arreglo[contador]);
 	}
+	printf("\n");
 
 	free(arreglo);
 	return 0;
