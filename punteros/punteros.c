@@ -4,7 +4,6 @@
 
 int main()
 {
-	int valor;
 	int tamano;
 	int *arreglo;
 	int contador;
