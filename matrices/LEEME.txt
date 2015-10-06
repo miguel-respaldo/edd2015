@@ -1,0 +1,23 @@
+# Multiplicacion de matrices en C y C++
+
+1. Programa que multipique 2 matrices de 3x3
+   * ETA -> 7/10/2015
+   + Pedir los datos de las matrices
+   + imprimir las matrices
+   + multiplicar las matrices
+   + mostrar el resultado
+
+2. Programa que multiplique 2 matrices de NxN
+   * ETA -> 13/10/2015
+
+
+
+*******************
+
+Las matrices se muestran de la manera
+
+[ 12, 123, 44]
+[ 111, 3, -1]
+[ 3.2, 1.9, -119.003]
+
+
