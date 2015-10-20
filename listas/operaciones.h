@@ -13,4 +13,6 @@ void imprimir_lista(struct nodo *cabecera);
 
 void borrar_lista(struct nodo *cabecera);
 
+void inicializar(struct nodo *cabecera);
+
 #endif
