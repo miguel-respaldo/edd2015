@@ -9,6 +9,7 @@
 4) Hacer un programa que pida una lista de numeros, luego que pida otro
    numero para insertar despues de algun numero de la lista.
 
+5) Hacer un programa donde borres un elemento de la lista.
 
 --------------
 
