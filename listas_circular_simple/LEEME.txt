@@ -1,0 +1,32 @@
+1) Terminar las oprecaiones basicas
+
+2) Hacer un programa que pida numeros y termina de pedir numeros
+   si el usuario inserta un -1, e imprima la lista y salga.
+
+3) Hacer un programa que pida numeros y los inserte de manera inversa
+   en una lista y que imprima la lista. La lista se termina con un -1.
+
+4) Hacer un programa que pida una lista de numeros, luego que pida otro
+   numero para insertar despues de algun numero de la lista.
+
+5) borrar un elemento.
+
+--------------
+
+Inserta un numero: 3
+Inserta un numero: 6
+Inserta un numero: -12
+Inserta un numero: -120
+Inserta un numero: 120
+Inserta un numero: -1
+
+2) 3, 6, -12, -120, 120
+
+3) 120, -120, -12, 6, 3
+
+4) Inserta un numero:  8
+   Despues de que numero lo quieres insertar: 6
+
+   3, 6, 8, -12, -120, 120
+
+
