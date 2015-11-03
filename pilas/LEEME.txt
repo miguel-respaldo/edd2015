@@ -1,0 +1,23 @@
+Programa de Pilas
+
+1) Programa de pilas con arreglos estaticos
+
+2) Programa de pilas con listas dinamicas
+
+
+---
+## Estatico
+
+
+int pila [7];
+int tope = -1;
+
+pila[tope] -> elemento de la pila
+
+## Dinamico
+
+Push -> Introduce al principio
+Pop  -> Borra el primero
+Tope -> Imprime el primer elemento
+
+
