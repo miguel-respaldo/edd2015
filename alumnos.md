@@ -27,3 +27,9 @@
 |SEVILLA ORTEGA JOHANNY ALEXIX	|https://github.com/lonelyday01/EDD2015|
 |TICANTE SEGURA CYNTHIA KARINA	|https://github.com/TenderTicante/edd2015|
 |ZERMEÑO PEÑA MARCOS NATIVIDAD	|https://github.com/marcoszerme (Nada)|
+|TAPIA CORONA LUIS PATRICIO	|https://github.com/pato2015|
+|CRUZ RODRIGUEZ MARTHA LETICIA	|https://github.com/leti1|
+|FLORES CERVANTES MIGUEL ANGEL	|https://github.com/migue1|
+|GALLEGOS OLMOS VICTOR EDUARDO	|https://github.com/VictorGallegos|
+|RUIZ SANTILLAN ESTELA GUADALUPE	|https://github.com/Estela2|
+|BALDERAS MARTINEZ MARIA FERNANDA	|https://github.com/maffernanda|
