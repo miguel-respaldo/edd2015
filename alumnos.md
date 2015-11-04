@@ -24,8 +24,8 @@
 |ORTEGA RAMIREZ SAMUEL	|https://github.com/SamuelOrtega (Nada)|
 |RAMIREZ GARCIA MONICA GABRIELA	|https://github.com/gabrielaramirezgarcia (Nada)|
 |RUIZ SANTILLAN ESTELA GUADALUPE	|https://github.com/estela1908 (Nada)|
-|SEVILLA ORTEGA JOHANNY ALEXIX	|https://github.com/lonelyday01/EDD2015 (Nada)|
-|TICANTE SEGURA CYNTHIA KARINA	|https://github.com/TenderTicante/edd2015 (Nada)|
+|SEVILLA ORTEGA JOHANNY ALEXIX	|https://github.com/lonelyday01/EDD2015 |
+|TICANTE SEGURA CYNTHIA KARINA	|https://github.com/TenderTicante/edd2015 |
 |ZERMEÑO PEÑA MARCOS NATIVIDAD	|https://github.com/marcoszerme (Nada)|
 |TAPIA CORONA LUIS PATRICIO	|https://github.com/pato2015 (Nada)|
 |CRUZ RODRIGUEZ MARTHA LETICIA	|https://github.com/leti1 (Nada)|
