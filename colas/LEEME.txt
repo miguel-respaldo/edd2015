@@ -1,0 +1,13 @@
+Programa de Colas
+
+1) Programa de Colas con listas dinamicas
+
+
+---
+
+### Dinamico
+
+Insertar  -> Inserta_al_final
+Sacar     -> Saca el primero
+Imprimir  -> Imprimir lista
+
