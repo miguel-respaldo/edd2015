@@ -1,0 +1,3 @@
+Crear un programa que calcule el resultado de una expresión prefija.
+
+Como lo vimos en el salon el martes 24 de Noviembre.
