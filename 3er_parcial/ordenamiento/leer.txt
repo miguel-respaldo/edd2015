@@ -1,0 +1,13 @@
+Hacer los siguientes programas:
+
+* Usando arreglos y Listas 
+
+1) Ordenamiento por Burbuja
+2) Ordenamiento por Selección
+3) Ordenamiento por Inserción
+
+* Usando solo arreglos
+
+4) Ordenamiento por mergesort
+5) Ordenamiento por quicksort
+
