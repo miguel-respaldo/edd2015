@@ -1,48 +1,20 @@
 #include "operaciones.h"
 
-void inicializar(struct nodo *cabecera)
+void insertar(struct nodo **arbol, int valor)
 {
-	cabecera->sig = NULL;
-	cabecera->ant = NULL;
-}
+	if (*arbol == NULL) {
+		*arbol = (struct nodo*) malloc(sizeof(struct nodo) * 1);
 
-void insertar_al_principio(struct nodo *cabecera, int valor_nuevo)
-{
-	struct nodo *nuevo;
+		(*arbol)->dato = valor;
+		(*arbol)->izq = NULL;
+		(*arbol)->der = NULL;
 
-	nuevo = (struct nodo*) malloc(sizeof(struct nodo) * 1);
-	nuevo->val = valor_nuevo;
-
-	nuevo->sig = cabecera->sig;
-	nuevo->ant = cabecera;
-
-	if (cabecera->sig =! NULL) {
-		cabecera->sig->ant = nuevo;
-		// La anterior linea es igual a las siguientes dos inscruciones
-		// tmp = cabecera->sig;
-		// tmp->ant = nuevo;
+		return;
 	}
 
-	cabecera->sig = nuevo;
-}
-
-void borrar_lista(struct nodo *cabecera)
-{
-	struct nodo *actual;
-	struct nodo *borrar;
-
-	/* Si es diferente de nulo borrar lista */
-	if (cabecera->sig != NULL) {
-		actual = cabecera->sig;
-		borrar = cabecera->sig;
-		/* Mientras el siguiente sea diferente de nulo */
-		while ( actual->sig != NULL) {
-			actual = actual->sig;
-			free(borrar);
-			borrar = actual;
-		}
-		free(borrar);
-		cabecera->sig = NULL;
+	if (valor < (*arbol)->dato) {
+		insertar( &((*arbol)->izq), valor);
+	} else {
+		insertar( &((*arbol)->der), valor);
 	}
 }
-
