@@ -2,10 +2,9 @@
 #define _NODO_H_
 
 struct nodo {
-	/* Valor del Nodo  es una cadena*/
-	char val[10];
-	/* Puntero que "apunta" al siguiente nodo */
-	struct	nodo * sig;
+	int dato;
+	struct	nodo *izq;
+	struct	nodo *der;
 };
 
 #endif
