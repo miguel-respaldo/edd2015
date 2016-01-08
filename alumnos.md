@@ -33,3 +33,11 @@
 |GALLEGOS OLMOS VICTOR EDUARDO	|https://github.com/VictorGallegos/edd2015.git|
 |RUIZ SANTILLAN ESTELA GUADALUPE	|https://github.com/Estela2/edd2015.git|
 |BALDERAS MARTINEZ MARIA FERNANDA	|https://github.com/maffernanda/edd2015-.git|
+|***|***|
+|GONZALEZ AVILA ALEJANDRO	|alejandro.gonzalez.sc@itszapopan.edu.mx	https://github.com/GonzalezAvilaAlejandro
+|AMADOR GARABITO RAYMUNDO	|raygarabito16@gmail.com	https://github.com/RayGarabito
+|MEDINA DE LA TORRE DANIEL	|dar.niel@hotmail.com	https://github.com/danielmedina30
+|GARCIA ESQUIVEL DORO ARIEL	|ariel.garcia.sc@itszapopan.edu.mx	https://github.com/ariel133
+|JAIME ALARCON ERIK CALEB	|erick_040895@hotmail.com	https://github.com/caleb04
+
+
